@@ -6,3 +6,6 @@ Description:
   - And displays the percentage of correct answers as well
   - You can take the quiz many times as you wish.
   - Type no to quit the quiz.
+
+Score
+  - Check the score after completion
