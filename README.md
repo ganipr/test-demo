@@ -1,4 +1,4 @@
-A puzzle game
+A game
 
 Description:
   - This is a game of 4 questions that user needs to answer.
