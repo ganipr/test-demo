@@ -64,4 +64,5 @@ options = [["A. HUL", "B. Dabur", "C. ITC", "D. AWL"], ["A. Jeff B", "B. Steve J
 new_game()
 while play_again():
     new_game()
-print("Have a great day")
+print("Great!!!")
+print("Have a nice day")
