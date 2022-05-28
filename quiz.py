@@ -65,4 +65,4 @@ new_game()
 while play_again():
     new_game()
 print("Great!!!")
-print("Have a nice day")
+
